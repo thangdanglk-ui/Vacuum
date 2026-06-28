@@ -1,0 +1,3626 @@
+{
+  "BFS": [
+    {
+      "steps": 202,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.18880111199999305,
+      "seed": 7886813
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.226903894000003,
+      "seed": 3048521
+    },
+    {
+      "steps": 132,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16464307799999744,
+      "seed": 9703150
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21482641299999727,
+      "seed": 5096102
+    },
+    {
+      "steps": 138,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.17917695799999933,
+      "seed": 3358827
+    },
+    {
+      "steps": 208,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21146304999999188,
+      "seed": 6880144
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2217227420000114,
+      "seed": 4449672
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.25897949100000517,
+      "seed": 8945284
+    },
+    {
+      "steps": 240,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2275628499999982,
+      "seed": 4113213
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.19986463699999035,
+      "seed": 8360109
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22993721800000344,
+      "seed": 5942026
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23188891199998807,
+      "seed": 6977176
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2011019820000115,
+      "seed": 8847117
+    },
+    {
+      "steps": 288,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23359299099999475,
+      "seed": 3659566
+    },
+    {
+      "steps": 218,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.20751274599999192,
+      "seed": 5193038
+    },
+    {
+      "steps": 254,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23504550900000254,
+      "seed": 9123984
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23557321300000922,
+      "seed": 5540484
+    },
+    {
+      "steps": 216,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2176773790000084,
+      "seed": 8713259
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2128907229999868,
+      "seed": 1252790
+    },
+    {
+      "steps": 292,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.24569424699998876,
+      "seed": 3462512
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16736306099997478,
+      "seed": 7860682
+    },
+    {
+      "steps": 230,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.197838183000016,
+      "seed": 2489259
+    },
+    {
+      "steps": 144,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13756977299999562,
+      "seed": 8918906
+    },
+    {
+      "steps": 254,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22399748500001238,
+      "seed": 3567021
+    },
+    {
+      "steps": 260,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22915746000001036,
+      "seed": 6910710
+    },
+    {
+      "steps": 242,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22561415599997758,
+      "seed": 981216
+    },
+    {
+      "steps": 214,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2137174989999835,
+      "seed": 5862712
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21212882499997932,
+      "seed": 6988895
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22455840500001045,
+      "seed": 7816192
+    },
+    {
+      "steps": 120,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16043035100000225,
+      "seed": 2083453
+    }
+  ],
+  "DFS": [
+    {
+      "steps": 208,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07952596799999867,
+      "seed": 7886813
+    },
+    {
+      "steps": 288,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09689919800000268,
+      "seed": 3048521
+    },
+    {
+      "steps": 282,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09583814500000187,
+      "seed": 9703150
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10417544199999895,
+      "seed": 5096102
+    },
+    {
+      "steps": 232,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06786754099999825,
+      "seed": 3358827
+    },
+    {
+      "steps": 238,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10839539399999865,
+      "seed": 6880144
+    },
+    {
+      "steps": 258,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10159035499999902,
+      "seed": 4449672
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 9,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.6884782900000062,
+      "seed": 8945284
+    },
+    {
+      "steps": 260,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09293899900001179,
+      "seed": 4113213
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09086867400000642,
+      "seed": 8360109
+    },
+    {
+      "steps": 286,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12019373299997937,
+      "seed": 5942026
+    },
+    {
+      "steps": 262,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09884730699999977,
+      "seed": 6977176
+    },
+    {
+      "steps": 228,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08411636099998532,
+      "seed": 8847117
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 14,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.6551496529999952,
+      "seed": 3659566
+    },
+    {
+      "steps": 198,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0665161219999959,
+      "seed": 5193038
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 13,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.5970549609999978,
+      "seed": 9123984
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09814864199998397,
+      "seed": 5540484
+    },
+    {
+      "steps": 222,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.11016729499999656,
+      "seed": 8713259
+    },
+    {
+      "steps": 288,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.11530506700000842,
+      "seed": 1252790
+    },
+    {
+      "steps": 386,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14422607500000595,
+      "seed": 3462512
+    },
+    {
+      "steps": 192,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08119025500002408,
+      "seed": 7860682
+    },
+    {
+      "steps": 218,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08501633800000263,
+      "seed": 2489259
+    },
+    {
+      "steps": 244,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07778454099999976,
+      "seed": 8918906
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10170657999998411,
+      "seed": 3567021
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 12,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.5919163509999805,
+      "seed": 6910710
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10459673500000122,
+      "seed": 981216
+    },
+    {
+      "steps": 214,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06365209300000174,
+      "seed": 5862712
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09707122200001095,
+      "seed": 6988895
+    },
+    {
+      "steps": 428,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15470676099999991,
+      "seed": 7816192
+    },
+    {
+      "steps": 122,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.039684136999994735,
+      "seed": 2083453
+    }
+  ],
+  "GBFS": [
+    {
+      "steps": 208,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.051925429999997164,
+      "seed": 7886813
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08672001799999407,
+      "seed": 3048521
+    },
+    {
+      "steps": 236,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06585987999999077,
+      "seed": 9703150
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07637639899999726,
+      "seed": 5096102
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03733517599999914,
+      "seed": 3358827
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05148281499999996,
+      "seed": 6880144
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06351722200000154,
+      "seed": 4449672
+    },
+    {
+      "steps": 210,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05973905799999102,
+      "seed": 8945284
+    },
+    {
+      "steps": 202,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.042415210999990904,
+      "seed": 4113213
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.054909690999977556,
+      "seed": 8360109
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07551161200001388,
+      "seed": 5942026
+    },
+    {
+      "steps": 276,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08990432900000656,
+      "seed": 6977176
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0584506470000008,
+      "seed": 8847117
+    },
+    {
+      "steps": 348,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1133423139999934,
+      "seed": 3659566
+    },
+    {
+      "steps": 198,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.04922639899999126,
+      "seed": 5193038
+    },
+    {
+      "steps": 270,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09217590400001541,
+      "seed": 9123984
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0827626139999893,
+      "seed": 5540484
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08506996400001299,
+      "seed": 8713259
+    },
+    {
+      "steps": 238,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07645236999999838,
+      "seed": 1252790
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08248683600001527,
+      "seed": 3462512
+    },
+    {
+      "steps": 244,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06740177199998243,
+      "seed": 7860682
+    },
+    {
+      "steps": 276,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05881063900000072,
+      "seed": 2489259
+    },
+    {
+      "steps": 198,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03836904299998878,
+      "seed": 8918906
+    },
+    {
+      "steps": 210,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05517586799999208,
+      "seed": 3567021
+    },
+    {
+      "steps": 260,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09227258899997537,
+      "seed": 6910710
+    },
+    {
+      "steps": 212,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0602103619999923,
+      "seed": 981216
+    },
+    {
+      "steps": 216,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.052237738999991734,
+      "seed": 5862712
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07621856900001944,
+      "seed": 6988895
+    },
+    {
+      "steps": 278,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0806441530000086,
+      "seed": 7816192
+    },
+    {
+      "steps": 122,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.032006257000006144,
+      "seed": 2083453
+    }
+  ],
+  "A*": [
+    {
+      "steps": 202,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05102523600000097,
+      "seed": 7886813
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08742565199999319,
+      "seed": 3048521
+    },
+    {
+      "steps": 136,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03856539499999201,
+      "seed": 9703150
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07760557800000356,
+      "seed": 5096102
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.037674951000013834,
+      "seed": 3358827
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.04642512199998805,
+      "seed": 6880144
+    },
+    {
+      "steps": 220,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0613573799999898,
+      "seed": 4449672
+    },
+    {
+      "steps": 208,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.055369312000010495,
+      "seed": 8945284
+    },
+    {
+      "steps": 200,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.04306003400000691,
+      "seed": 4113213
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.050916264999983696,
+      "seed": 8360109
+    },
+    {
+      "steps": 232,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0704123619999848,
+      "seed": 5942026
+    },
+    {
+      "steps": 270,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09159111800002506,
+      "seed": 6977176
+    },
+    {
+      "steps": 262,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06013215300001207,
+      "seed": 8847117
+    },
+    {
+      "steps": 290,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0930734699999789,
+      "seed": 3659566
+    },
+    {
+      "steps": 196,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.049962649999997666,
+      "seed": 5193038
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0947236890000056,
+      "seed": 9123984
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08270692499999655,
+      "seed": 5540484
+    },
+    {
+      "steps": 240,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08511137899998289,
+      "seed": 8713259
+    },
+    {
+      "steps": 202,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.059053634000008515,
+      "seed": 1252790
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08507539599997926,
+      "seed": 3462512
+    },
+    {
+      "steps": 238,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0678693140000064,
+      "seed": 7860682
+    },
+    {
+      "steps": 270,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05892617000000655,
+      "seed": 2489259
+    },
+    {
+      "steps": 198,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03836644300000103,
+      "seed": 8918906
+    },
+    {
+      "steps": 204,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05529330699999946,
+      "seed": 3567021
+    },
+    {
+      "steps": 256,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09342900299998291,
+      "seed": 6910710
+    },
+    {
+      "steps": 212,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05928256400000009,
+      "seed": 981216
+    },
+    {
+      "steps": 214,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05369778300001826,
+      "seed": 5862712
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07761784299998453,
+      "seed": 6988895
+    },
+    {
+      "steps": 274,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08087795099999084,
+      "seed": 7816192
+    },
+    {
+      "steps": 118,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.032041864999996506,
+      "seed": 2083453
+    }
+  ],
+  "Hill Climbing": [
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 0,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.06632961200000409,
+      "seed": 7886813
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 3,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.06602679600000272,
+      "seed": 3048521
+    },
+    {
+      "steps": 166,
+      "charges": 10,
+      "dust_collected": 2,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 148,
+      "time_s": 0.004552770999993072,
+      "seed": 9703150
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 6,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.118053297000003,
+      "seed": 5096102
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 3,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.1733602239999925,
+      "seed": 3358827
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 3,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.21421100400000626,
+      "seed": 6880144
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 2,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.117301353000002,
+      "seed": 4449672
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 7,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.18666196399999535,
+      "seed": 8945284
+    },
+    {
+      "steps": 1466,
+      "charges": 10,
+      "dust_collected": 3,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.10006060399999228,
+      "seed": 4113213
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 3,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.25628367599998114,
+      "seed": 8360109
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 2,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.07140666099999748,
+      "seed": 5942026
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 1,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.09547588300000598,
+      "seed": 6977176
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 0,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.033900019000014936,
+      "seed": 8847117
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 0,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.09205363699999225,
+      "seed": 3659566
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 1,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.11103819900000644,
+      "seed": 5193038
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 4,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.17081534700000134,
+      "seed": 9123984
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 0,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.12244319200001996,
+      "seed": 5540484
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 1,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.17982125499997892,
+      "seed": 8713259
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 8,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.12134258499997941,
+      "seed": 1252790
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 5,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.12370172300001059,
+      "seed": 3462512
+    },
+    {
+      "steps": 896,
+      "charges": 10,
+      "dust_collected": 8,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 146,
+      "time_s": 0.07558808000001704,
+      "seed": 7860682
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 13,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.31020285300002115,
+      "seed": 2489259
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 0,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.021434982999977592,
+      "seed": 8918906
+    },
+    {
+      "steps": 742,
+      "charges": 10,
+      "dust_collected": 4,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 148,
+      "time_s": 0.022445538999988912,
+      "seed": 3567021
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 0,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.0789424209999936,
+      "seed": 6910710
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 5,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.17896213200000943,
+      "seed": 981216
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 7,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.2740333069999963,
+      "seed": 5862712
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 8,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.12736688200001822,
+      "seed": 6988895
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 5,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.20111745200000541,
+      "seed": 7816192
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 3,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.11443842100001689,
+      "seed": 2083453
+    }
+  ],
+  "Simulated Annealing": [
+    {
+      "steps": 877,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1670033880000119,
+      "seed": 7886813
+    },
+    {
+      "steps": 1064,
+      "charges": 10,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21768610200000182,
+      "seed": 3048521
+    },
+    {
+      "steps": 1045,
+      "charges": 16,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.219293473999997,
+      "seed": 9703150
+    },
+    {
+      "steps": 848,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1763382289999953,
+      "seed": 5096102
+    },
+    {
+      "steps": 851,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16862207100000148,
+      "seed": 3358827
+    },
+    {
+      "steps": 864,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2077087779999971,
+      "seed": 6880144
+    },
+    {
+      "steps": 816,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1965011919999995,
+      "seed": 4449672
+    },
+    {
+      "steps": 1003,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.24936177000000725,
+      "seed": 8945284
+    },
+    {
+      "steps": 1063,
+      "charges": 8,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.20202390200000764,
+      "seed": 4113213
+    },
+    {
+      "steps": 1085,
+      "charges": 9,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1984579989999986,
+      "seed": 8360109
+    },
+    {
+      "steps": 1209,
+      "charges": 9,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2757892510000204,
+      "seed": 5942026
+    },
+    {
+      "steps": 990,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2261458940000125,
+      "seed": 6977176
+    },
+    {
+      "steps": 721,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1505964909999875,
+      "seed": 8847117
+    },
+    {
+      "steps": 3794,
+      "charges": 25,
+      "dust_collected": 5,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 1.403850871000003,
+      "seed": 3659566
+    },
+    {
+      "steps": 721,
+      "charges": 9,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15262886899998307,
+      "seed": 5193038
+    },
+    {
+      "steps": 971,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23881296199999724,
+      "seed": 9123984
+    },
+    {
+      "steps": 1193,
+      "charges": 9,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2968978049999862,
+      "seed": 5540484
+    },
+    {
+      "steps": 1160,
+      "charges": 8,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.27851112000001876,
+      "seed": 8713259
+    },
+    {
+      "steps": 1279,
+      "charges": 10,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.32366453599999545,
+      "seed": 1252790
+    },
+    {
+      "steps": 2294,
+      "charges": 16,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.6256674509999982,
+      "seed": 3462512
+    },
+    {
+      "steps": 784,
+      "charges": 12,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.18228141599999503,
+      "seed": 7860682
+    },
+    {
+      "steps": 841,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13919591200001946,
+      "seed": 2489259
+    },
+    {
+      "steps": 744,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.11671371100001693,
+      "seed": 8918906
+    },
+    {
+      "steps": 985,
+      "charges": 11,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22495845899999267,
+      "seed": 3567021
+    },
+    {
+      "steps": 1145,
+      "charges": 10,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.26487909200000104,
+      "seed": 6910710
+    },
+    {
+      "steps": 1041,
+      "charges": 11,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.26150516700002413,
+      "seed": 981216
+    },
+    {
+      "steps": 871,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.19462361300000453,
+      "seed": 5862712
+    },
+    {
+      "steps": 723,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16079821699997865,
+      "seed": 6988895
+    },
+    {
+      "steps": 1277,
+      "charges": 10,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3264592719999939,
+      "seed": 7816192
+    },
+    {
+      "steps": 730,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14346597499999802,
+      "seed": 2083453
+    }
+  ],
+  "Backtracking": [
+    {
+      "steps": 202,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.052261740999995254,
+      "seed": 7886813
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0862764459999994,
+      "seed": 3048521
+    },
+    {
+      "steps": 132,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0393661829999985,
+      "seed": 9703150
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07811536399999852,
+      "seed": 5096102
+    },
+    {
+      "steps": 134,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03514443499999231,
+      "seed": 3358827
+    },
+    {
+      "steps": 208,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.061420851999997694,
+      "seed": 6880144
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.040575914999990914,
+      "seed": 4449672
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09192384300000356,
+      "seed": 8945284
+    },
+    {
+      "steps": 240,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06913874299999634,
+      "seed": 4113213
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05072271599999567,
+      "seed": 8360109
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07557565300001556,
+      "seed": 5942026
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08617795800000749,
+      "seed": 6977176
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06898675900001194,
+      "seed": 8847117
+    },
+    {
+      "steps": 286,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09824162500001421,
+      "seed": 3659566
+    },
+    {
+      "steps": 218,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06514671499999736,
+      "seed": 5193038
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08843812300000309,
+      "seed": 9123984
+    },
+    {
+      "steps": 244,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08222206300001744,
+      "seed": 5540484
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09313088900000821,
+      "seed": 8713259
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06965864899999019,
+      "seed": 1252790
+    },
+    {
+      "steps": 398,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1404797120000012,
+      "seed": 3462512
+    },
+    {
+      "steps": 144,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.039038789000017005,
+      "seed": 7860682
+    },
+    {
+      "steps": 206,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.04068481499999166,
+      "seed": 2489259
+    },
+    {
+      "steps": 236,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06458217199997307,
+      "seed": 8918906
+    },
+    {
+      "steps": 254,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08630013399999825,
+      "seed": 3567021
+    },
+    {
+      "steps": 260,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.093324583999987,
+      "seed": 6910710
+    },
+    {
+      "steps": 242,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07560511599999131,
+      "seed": 981216
+    },
+    {
+      "steps": 214,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05213426000000254,
+      "seed": 5862712
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08220940100000007,
+      "seed": 6988895
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08470799200000556,
+      "seed": 7816192
+    },
+    {
+      "steps": 120,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03258812100000341,
+      "seed": 2083453
+    }
+  ],
+  "Forward Checking": [
+    {
+      "steps": 202,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.058559320000000525,
+      "seed": 7886813
+    },
+    {
+      "steps": 266,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08659009999999512,
+      "seed": 3048521
+    },
+    {
+      "steps": 132,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03690295300000912,
+      "seed": 9703150
+    },
+    {
+      "steps": 246,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0779972840000056,
+      "seed": 5096102
+    },
+    {
+      "steps": 134,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0359042340000002,
+      "seed": 3358827
+    },
+    {
+      "steps": 208,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06125335499999096,
+      "seed": 6880144
+    },
+    {
+      "steps": 142,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03869816699999262,
+      "seed": 4449672
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09200872499999946,
+      "seed": 8945284
+    },
+    {
+      "steps": 240,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06792265999999358,
+      "seed": 4113213
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05151944299998945,
+      "seed": 8360109
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0763907310000036,
+      "seed": 5942026
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08581886399997529,
+      "seed": 6977176
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06889696700000059,
+      "seed": 8847117
+    },
+    {
+      "steps": 286,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0979190850000009,
+      "seed": 3659566
+    },
+    {
+      "steps": 218,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06482019599999944,
+      "seed": 5193038
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08778351800000905,
+      "seed": 9123984
+    },
+    {
+      "steps": 244,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08247416000000385,
+      "seed": 5540484
+    },
+    {
+      "steps": 264,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09409131300000695,
+      "seed": 8713259
+    },
+    {
+      "steps": 226,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07002363300000525,
+      "seed": 1252790
+    },
+    {
+      "steps": 398,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14204336800000306,
+      "seed": 3462512
+    },
+    {
+      "steps": 144,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.038883274999989226,
+      "seed": 7860682
+    },
+    {
+      "steps": 206,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03897068599999898,
+      "seed": 2489259
+    },
+    {
+      "steps": 236,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06475670000000378,
+      "seed": 8918906
+    },
+    {
+      "steps": 254,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08788319200002093,
+      "seed": 3567021
+    },
+    {
+      "steps": 260,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.09477539100001309,
+      "seed": 6910710
+    },
+    {
+      "steps": 242,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07205710100001284,
+      "seed": 981216
+    },
+    {
+      "steps": 214,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0522063760000151,
+      "seed": 5862712
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08223113900001522,
+      "seed": 6988895
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08482632299998727,
+      "seed": 7816192
+    },
+    {
+      "steps": 120,
+      "charges": 1,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.03245449000002054,
+      "seed": 2083453
+    }
+  ],
+  "Unknown-BFS": [
+    {
+      "steps": 716,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2127839850000015,
+      "seed": 7886813
+    },
+    {
+      "steps": 1002,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3319969509999936,
+      "seed": 3048521
+    },
+    {
+      "steps": 690,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1983338539999977,
+      "seed": 9703150
+    },
+    {
+      "steps": 716,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21641020600000616,
+      "seed": 5096102
+    },
+    {
+      "steps": 728,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.19735958400001152,
+      "seed": 3358827
+    },
+    {
+      "steps": 722,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.24733019900000386,
+      "seed": 6880144
+    },
+    {
+      "steps": 840,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.30374013099999786,
+      "seed": 4449672
+    },
+    {
+      "steps": 850,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3049340729999983,
+      "seed": 8945284
+    },
+    {
+      "steps": 708,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2023091920000013,
+      "seed": 4113213
+    },
+    {
+      "steps": 690,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23594158200000948,
+      "seed": 8360109
+    },
+    {
+      "steps": 836,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.29513955400000214,
+      "seed": 5942026
+    },
+    {
+      "steps": 820,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.29075501099998746,
+      "seed": 6977176
+    },
+    {
+      "steps": 832,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2798015309999755,
+      "seed": 8847117
+    },
+    {
+      "steps": 1156,
+      "charges": 8,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.4763813950000042,
+      "seed": 3659566
+    },
+    {
+      "steps": 672,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.19756327899997927,
+      "seed": 5193038
+    },
+    {
+      "steps": 694,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2270801429999949,
+      "seed": 9123984
+    },
+    {
+      "steps": 978,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.34049201700000253,
+      "seed": 5540484
+    },
+    {
+      "steps": 824,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.30425654300000815,
+      "seed": 8713259
+    },
+    {
+      "steps": 992,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3734433410000122,
+      "seed": 1252790
+    },
+    {
+      "steps": 998,
+      "charges": 7,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3767793610000183,
+      "seed": 3462512
+    },
+    {
+      "steps": 720,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.20717143499999224,
+      "seed": 7860682
+    },
+    {
+      "steps": 694,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.18850481000001196,
+      "seed": 2489259
+    },
+    {
+      "steps": 682,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1705737739999904,
+      "seed": 8918906
+    },
+    {
+      "steps": 716,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21691093100000103,
+      "seed": 3567021
+    },
+    {
+      "steps": 864,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.30665989400000626,
+      "seed": 6910710
+    },
+    {
+      "steps": 722,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2348758080000266,
+      "seed": 981216
+    },
+    {
+      "steps": 678,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21111927399999786,
+      "seed": 5862712
+    },
+    {
+      "steps": 716,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22511583900001142,
+      "seed": 6988895
+    },
+    {
+      "steps": 804,
+      "charges": 6,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.26237834600001975,
+      "seed": 7816192
+    },
+    {
+      "steps": 688,
+      "charges": 5,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.20436855100001594,
+      "seed": 2083453
+    }
+  ],
+  "Partial Observable": [
+    {
+      "steps": 378,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1165190850000073,
+      "seed": 7886813
+    },
+    {
+      "steps": 546,
+      "charges": 4,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22961250900000607,
+      "seed": 3048521
+    },
+    {
+      "steps": 384,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12677104600000177,
+      "seed": 9703150
+    },
+    {
+      "steps": 270,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.06985550000000273,
+      "seed": 5096102
+    },
+    {
+      "steps": 342,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10167982599999448,
+      "seed": 3358827
+    },
+    {
+      "steps": 404,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15434642799999665,
+      "seed": 6880144
+    },
+    {
+      "steps": 274,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08409935200000973,
+      "seed": 4449672
+    },
+    {
+      "steps": 408,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1279716860000093,
+      "seed": 8945284
+    },
+    {
+      "steps": 386,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10997532700000079,
+      "seed": 4113213
+    },
+    {
+      "steps": 288,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.08160279899999523,
+      "seed": 8360109
+    },
+    {
+      "steps": 386,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12600851000001967,
+      "seed": 5942026
+    },
+    {
+      "steps": 398,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13921201499999825,
+      "seed": 6977176
+    },
+    {
+      "steps": 390,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1697759900000051,
+      "seed": 8847117
+    },
+    {
+      "steps": 568,
+      "charges": 4,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.28735341199998743,
+      "seed": 3659566
+    },
+    {
+      "steps": 228,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.05213396999999986,
+      "seed": 5193038
+    },
+    {
+      "steps": 402,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15054548399999135,
+      "seed": 9123984
+    },
+    {
+      "steps": 406,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.17162865700001362,
+      "seed": 5540484
+    },
+    {
+      "steps": 384,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.18059945299998503,
+      "seed": 8713259
+    },
+    {
+      "steps": 372,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13045641300001876,
+      "seed": 1252790
+    },
+    {
+      "steps": 522,
+      "charges": 4,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.20720338000000993,
+      "seed": 3462512
+    },
+    {
+      "steps": 406,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.11559124500001872,
+      "seed": 7860682
+    },
+    {
+      "steps": 374,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12185587499999428,
+      "seed": 2489259
+    },
+    {
+      "steps": 362,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0817456130000096,
+      "seed": 8918906
+    },
+    {
+      "steps": 422,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21940547399998422,
+      "seed": 3567021
+    },
+    {
+      "steps": 426,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15142971399998828,
+      "seed": 6910710
+    },
+    {
+      "steps": 402,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1316274069999963,
+      "seed": 981216
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07709654299998192,
+      "seed": 5862712
+    },
+    {
+      "steps": 378,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13054785999997875,
+      "seed": 6988895
+    },
+    {
+      "steps": 462,
+      "charges": 4,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15611785300001202,
+      "seed": 7816192
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.07605256200000099,
+      "seed": 2083453
+    }
+  ],
+  "Minimax": [
+    {
+      "steps": 408,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1935180579999951,
+      "seed": 7886813
+    },
+    {
+      "steps": 423,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 149,
+      "time_s": 0.24578020900000297,
+      "seed": 3048521
+    },
+    {
+      "steps": 239,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12460477400000514,
+      "seed": 9703150
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14872453899999982,
+      "seed": 5096102
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12271950299999901,
+      "seed": 3358827
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13719606000000795,
+      "seed": 6880144
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14737213600000132,
+      "seed": 4449672
+    },
+    {
+      "steps": 410,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3023755649999913,
+      "seed": 8945284
+    },
+    {
+      "steps": 376,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.19906395799998222,
+      "seed": 4113213
+    },
+    {
+      "steps": 288,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.23061725900001306,
+      "seed": 8360109
+    },
+    {
+      "steps": 412,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.24297456899998338,
+      "seed": 5942026
+    },
+    {
+      "steps": 283,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16085281400000895,
+      "seed": 6977176
+    },
+    {
+      "steps": 276,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16861597199999778,
+      "seed": 8847117
+    },
+    {
+      "steps": 1314,
+      "charges": 10,
+      "dust_collected": 14,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 149,
+      "time_s": 1.1814037190000022,
+      "seed": 3659566
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.11601807899998562,
+      "seed": 5193038
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.17236886699998877,
+      "seed": 9123984
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 12,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.9897982409999884,
+      "seed": 5540484
+    },
+    {
+      "steps": 381,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2130761399999983,
+      "seed": 8713259
+    },
+    {
+      "steps": 278,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.17547021400000062,
+      "seed": 1252790
+    },
+    {
+      "steps": 402,
+      "charges": 4,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 149,
+      "time_s": 0.28332199800001945,
+      "seed": 3462512
+    },
+    {
+      "steps": 234,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.10188037899999358,
+      "seed": 7860682
+    },
+    {
+      "steps": 234,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12466988299999571,
+      "seed": 2489259
+    },
+    {
+      "steps": 262,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12682274400000892,
+      "seed": 8918906
+    },
+    {
+      "steps": 286,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1764592769999922,
+      "seed": 3567021
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.18148640499998692,
+      "seed": 6910710
+    },
+    {
+      "steps": 268,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14162459899998225,
+      "seed": 981216
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16000027600000521,
+      "seed": 5862712
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13622401200001377,
+      "seed": 6988895
+    },
+    {
+      "steps": 401,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21709908100001485,
+      "seed": 7816192
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12069830100000445,
+      "seed": 2083453
+    }
+  ],
+  "Alpha-Beta": [
+    {
+      "steps": 408,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1901051669999987,
+      "seed": 7886813
+    },
+    {
+      "steps": 423,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 149,
+      "time_s": 0.24059932000000117,
+      "seed": 3048521
+    },
+    {
+      "steps": 239,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12100729600000193,
+      "seed": 9703150
+    },
+    {
+      "steps": 248,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14450143000000537,
+      "seed": 5096102
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12122869900001376,
+      "seed": 3358827
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.13843133299999977,
+      "seed": 6880144
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.15455086700001175,
+      "seed": 4449672
+    },
+    {
+      "steps": 410,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.3031680819999849,
+      "seed": 8945284
+    },
+    {
+      "steps": 376,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.19964353900002152,
+      "seed": 4113213
+    },
+    {
+      "steps": 288,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.18090964300000678,
+      "seed": 8360109
+    },
+    {
+      "steps": 412,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.2415926170000091,
+      "seed": 5942026
+    },
+    {
+      "steps": 283,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1615839899999969,
+      "seed": 6977176
+    },
+    {
+      "steps": 276,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.167547447000004,
+      "seed": 8847117
+    },
+    {
+      "steps": 1314,
+      "charges": 10,
+      "dust_collected": 14,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 149,
+      "time_s": 1.1939598010000054,
+      "seed": 3659566
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.11785719599998856,
+      "seed": 5193038
+    },
+    {
+      "steps": 268,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1725849510000046,
+      "seed": 9123984
+    },
+    {
+      "steps": 1606,
+      "charges": 10,
+      "dust_collected": 12,
+      "total_dust": 15,
+      "status": "failed",
+      "battery_left": 4,
+      "time_s": 0.9836129139999912,
+      "seed": 5540484
+    },
+    {
+      "steps": 381,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.21180600300002084,
+      "seed": 8713259
+    },
+    {
+      "steps": 278,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.17421163800000272,
+      "seed": 1252790
+    },
+    {
+      "steps": 402,
+      "charges": 4,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 149,
+      "time_s": 0.28550504800000454,
+      "seed": 3462512
+    },
+    {
+      "steps": 234,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.0999185329999932,
+      "seed": 7860682
+    },
+    {
+      "steps": 234,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12487446800000157,
+      "seed": 2489259
+    },
+    {
+      "steps": 262,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12839126200000806,
+      "seed": 8918906
+    },
+    {
+      "steps": 286,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.17661568799999827,
+      "seed": 3567021
+    },
+    {
+      "steps": 280,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1775938219999773,
+      "seed": 6910710
+    },
+    {
+      "steps": 268,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.14166966300001604,
+      "seed": 981216
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.16153784900001256,
+      "seed": 5862712
+    },
+    {
+      "steps": 272,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.1366601800000069,
+      "seed": 6988895
+    },
+    {
+      "steps": 401,
+      "charges": 3,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.22003737100001786,
+      "seed": 7816192
+    },
+    {
+      "steps": 250,
+      "charges": 2,
+      "dust_collected": 15,
+      "total_dust": 15,
+      "status": "finished",
+      "battery_left": 150,
+      "time_s": 0.12036864000000946,
+      "seed": 2083453
+    }
+  ]
+}
